@@ -1,4 +1,4 @@
 TRANS-FILE
 
-its just File Transfer Server that using cpp and boost.asio
-i create this because hobby and i like cpp
+its just File Transfer Server this using rust
+i create this because hobby
